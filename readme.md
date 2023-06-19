@@ -22,12 +22,12 @@
         padding =  apply padding to a <div> element to add space between its content and the border.
    3. Implementation anchor tag redirect to another section of page? in anchor tag denote section starts with # `#name` when us call it just add respective element id with same name `id="name"`
    4. Block Element Center Alignment:
-        For block-level elements (like <div>, <p>, or <h1>), you can set the margin property to "0 auto" along with a defined width. This will center-align the block element within its parent container. For example:
-        `
+        For block-level elements (like `<div>, <p>, or <h1>`), you can set the margin property to "0 auto" along with a defined width. This will center-align the block element within its parent container. For example:
+        ```
             .center-align {
             margin: 0 auto;
             width: 50%; /* Adjust the width as per your requirement */
             }
-        `
+        ```
 
 ---
